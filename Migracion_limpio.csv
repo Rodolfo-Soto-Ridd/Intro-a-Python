@@ -1,0 +1,10 @@
+Pais_Origen,Pais_Destino,Año,Cantidad_Migrantes,Razon_Migracion,PIB_Origen,PIB_Destino,IDH_Origen,IDH_Destino,Diferencia_IDH
+Venezuela,España,2018,250000,Trabajo,5000,30000,0.7,0.89,29999.3
+Siria,Alemania,2015,800000,Conflicto,2000,45000,0.55,0.94,44999.45
+México,EEUU,2020,300000,Trabajo,9000,65000,0.78,0.92,64999.22
+India,Canadá,2019,150000,Estudios,2500,48000,0.65,0.93,47999.35
+Bangladesh,Italia,2021,120000,Trabajo,2000,35000,0.61,0.89,34999.39
+Ucrania,Polonia,2022,700000,Conflicto,13000,18000,0.77,0.85,17999.23
+Filipinas,Arabia Saudita,2017,200000,Trabajo,3200,23000,0.71,0.85,22999.29
+Haití,Chile,2019,90000,Trabajo,1800,15000,0.5,0.85,14999.5
+Argentina,España,2021,110000,Trabajo,10000,30000,0.83,0.89,29999.17

@@ -1,0 +1,14 @@
+Cliente_ID,Nombre,Categoría,Cantidad,Precio,Método de Pago,Fecha
+1001,Cliente_1,Electrónica,2,45.50,PayPal,2024-01-01
+1002,Cliente_2,Moda,1,30.00,Tarjeta de Crédito,2024-01-02
+1003,Cliente_3,Hogar,3,25.75,Efectivo,2024-01-03
+1004,Cliente_4,Deportes,4,50.00,Tarjeta de Crédito,2024-01-04
+1005,Cliente_5,,2,40.00,PayPal,2024-01-05
+1006,Cliente_6,Electrónica,6,75.25,Efectivo,2024-01-06
+1007,Cliente_7,Electrónica,50,90.00,Tarjeta de Crédito,2024-01-07
+1008,Cliente_8,Deportes,60,85.00,Efectivo,2024-01-08
+1009,Cliente_9,Moda,5,32.50,PayPal,2024-01-09
+1010,Cliente_10,Hogar,7,95.00,Efectivo,2024-01-10
+1011,Cliente_11,Moda,3,,Efectivo,2024-01-11
+1005,Cliente_5,,2,40.00,PayPal,2024-01-05
+1007,Cliente_7,Electrónica,50,90.00,Tarjeta de Crédito,2024-01-07
